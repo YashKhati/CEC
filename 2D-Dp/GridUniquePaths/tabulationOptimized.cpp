@@ -32,5 +32,5 @@ int main()
         }
         prev = curr;
     }
-    cout << prev[n - 1];
+    cout << prev[n - 1] << endl;
 }
